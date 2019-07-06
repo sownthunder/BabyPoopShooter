@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyPoopShooter", "Assembly-CSharp.csproj", "{F5CB054C-E460-595D-EBB8-6C8F32AA94AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyPoopShooter", "Assembly-CSharp-Editor.csproj", "{22B6A8F5-DA3D-4DB0-4BB8-3789AEB0266D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CB054C-E460-595D-EBB8-6C8F32AA94AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CB054C-E460-595D-EBB8-6C8F32AA94AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CB054C-E460-595D-EBB8-6C8F32AA94AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CB054C-E460-595D-EBB8-6C8F32AA94AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B6A8F5-DA3D-4DB0-4BB8-3789AEB0266D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B6A8F5-DA3D-4DB0-4BB8-3789AEB0266D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B6A8F5-DA3D-4DB0-4BB8-3789AEB0266D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B6A8F5-DA3D-4DB0-4BB8-3789AEB0266D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
